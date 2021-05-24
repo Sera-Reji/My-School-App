@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+iframe {
+    border-width: 5px;
+    border-style: solid;
+    text-align: center;
+    border-color: white;
+}
+
+#video {
+    height: 500px;
+    width: 1100px;
+}
+
+#details h3 {
+    color: blue;
+}
+
+#details h4 {
+    color: darkorange;
+}
+
+h2 {
+    color: blueviolet;
+    text-decoration: underline;
+    text-decoration-color: deeppink;
+}
+
+#marqueeStyle {
+    color: white;
+    font-size: 20px;
+}
+
+#UvU {
+    color: white;
+}
